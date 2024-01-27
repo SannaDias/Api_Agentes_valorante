@@ -110,4 +110,3 @@ async function deleteAgente(agenteid) {
         throw error; // Lança o erro novamente para que ele possa ser tratado pelo código que chama a função
     }
 }
-
